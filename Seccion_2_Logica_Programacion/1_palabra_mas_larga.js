@@ -21,3 +21,7 @@ function palabraMasLarga(texto) {
 
   return palabraMasLarga;
 }
+
+// ejemplos de uso:
+console.log(palabraMasLarga("Encuentra la palabra mas larga en esta cadena de texto")); 
+console.log(palabraMasLarga("JavaScript es un lenguaje de programacion")); 
