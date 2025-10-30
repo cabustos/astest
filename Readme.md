@@ -28,7 +28,7 @@ Ejercicios resueltos en **JavaScript** .
 
 ### **Sección 3 – Desarrollo Práctico**
 
-#### 🧱 Ejercicio 1 – API REST en PHP
+#### Ejercicio 1 – API REST en PHP
 **Endpoint:** `GET /usuarios/recientes`  
 Devuelve los usuarios registrados en los últimos 30 días desde la base de datos `usuarios`.  
 
