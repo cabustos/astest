@@ -38,7 +38,7 @@ Devuelve los usuarios registrados en los últimos 30 días desde la base de dato
 sql_data_example
 
 **Cómo ejecutar:**, recuerda importa primero la bd
-```bash
+
 cd Seccion_3_Desarrollo_Practico/api_rest_usuarios
 php -S localhost:8000
 
