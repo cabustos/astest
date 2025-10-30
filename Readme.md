@@ -3,7 +3,7 @@
 > **Candidato:** Cesar Bustos
 
 
-### **Sección 1 – Conocimientos Técnicos **
+### **Sección 1 – Conocimientos Técnicos**
 
 
 Temas:  
@@ -15,7 +15,7 @@ Temas:
 
 ---
 
-### **Sección 2 – Lógica de Programación **
+### **Sección 2 – Lógica de Programación**
 Ejercicios resueltos en **JavaScript** .
 
 1. **Palabra más larga:** encuentra la palabra con mayor longitud.  
@@ -26,7 +26,7 @@ Ejercicios resueltos en **JavaScript** .
 
 ---
 
-### **Sección 3 – Desarrollo Práctico (35 pts)**
+### **Sección 3 – Desarrollo Práctico**
 
 #### 🧱 Ejercicio 1 – API REST en PHP
 **Endpoint:** `GET /usuarios/recientes`  
