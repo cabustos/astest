@@ -42,10 +42,11 @@ sql_data_example
 cd Seccion_3_Desarrollo_Practico/api_rest_usuarios
 php -S localhost:8000
 
+---
 
-### ** Seccion 4 Respuesta Preguntas Abiertas // seccion_4_preguntas_abiertas***
+### **Seccion 4 Respuesta Preguntas Abiertas // seccion_4_preguntas_abiertas***
 
-### **En cada archivo encontrara las respuestas **
+#### **En cada archivo encontrara las respuestas**
 
 1_buenas_practicas.md
 2_git_y_github.md
