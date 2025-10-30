@@ -1,5 +1,5 @@
 
-Para un modelo de datos pueden haber dos posibles soluciones segun el tipo de Base de Datos que se usa
+### **Para un modelo de datos pueden haber dos posibles soluciones segun el tipo de Base de Datos que se usa**
 
 1. SQL
 
