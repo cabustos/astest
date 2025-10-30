@@ -33,3 +33,4 @@ function contarFrecuenciaCaracteres(cadena) {
 console.log(contarFrecuenciaCaracteres("hola mundo"));
 console.log(contarFrecuenciaCaracteres("programacion"));
 console.log(contarFrecuenciaCaracteres("aaabbbccc"));
+
