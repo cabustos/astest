@@ -44,7 +44,7 @@ php -S localhost:8000
 
 ---
 
-### **Seccion 4 - Respuesta Preguntas Abiertas**
+### **Sección 4 - Respuesta Preguntas Abiertas**
 
 #### **En cada archivo encontrara las respuestas**
 
