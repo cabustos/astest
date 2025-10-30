@@ -1,4 +1,4 @@
-# 🧠 Prueba Técnica – Desarrollador Full Stack (PHP, JavaScript, jQuery, SQL)
+# Prueba Técnica – Desarrollador Full Stack (PHP, JavaScript, jQuery, SQL)
 
 > **Candidato:** Cesar Bustos
 
